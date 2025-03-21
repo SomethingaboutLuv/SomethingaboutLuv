@@ -1,7 +1,8 @@
+![logo](banner.png)
 <h1 align="center">Moshi Moshi👋 Its, Luv Chaudhary</h1>
 <h3 align="center">A passionate Lad from Nepal!!</h3>
 
-<img align="right" alt="coding" width="500" src="gojo.gif"> 
+<img align="right" alt="coding" width="500" src="uwu.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somethingaboutluv&label=Profile%20views&color=0e75b6&style=flat" alt="somethingaboutluv" /> </p>
 
